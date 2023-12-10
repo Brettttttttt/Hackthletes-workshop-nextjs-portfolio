@@ -20,7 +20,7 @@ const HeroSection = () => {
               <span className="text-white text-8xl ">
                 Hello, I'm{" "} 
                 <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-                Yee Chian
+                Chieu Eten
                 </span>
               </span>
               <br></br>
@@ -57,7 +57,7 @@ const HeroSection = () => {
               </Link>
              
               <Link
-                href="https://drive.google.com/file/d/1ajOJwhrua1lElHtbVjzOv12ySXn8xPBa/view?usp=sharing"
+                href="https://www.google.com/search?sca_esv=589523158&rlz=1C1VDKB_enMY1017MY1017&sxsrf=AM9HkKl8Bjl2UM-abdsdd9LK4dCxv04Kcg:1702195242803&q=temporary+under+maintenance&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiSkaS2s4SDAxUNcGwGHZ2wA2MQ0pQJegQICxAB&biw=1163&bih=613&dpr=2.2#imgrc=ZGXP9iRNqzkl5M"
                 className="px-6 inline-block py-3 rounded-full mr-4 border-solid border-2  border-pink-500 hover:bg-pink-400">
                 <span className="text-xl text-white">View my Resume</span>
               </Link>
@@ -70,7 +70,7 @@ const HeroSection = () => {
           >
           <div className="w-[400px] h-[400px] relative z-0">
             <img
-              src="/Hero-Section.png"
+              src="/24.jpeg"
               alt="hero section"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}
